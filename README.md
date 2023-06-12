@@ -1,4 +1,4 @@
-<h1 align="center"> ART TEAM</h1>
+<h1 align="center"> ART Sy5team</h1>
 
 <h4 align="center"> :earth_africa: A community of tech-savvy crypto enthusiasts from around the world. (decentralization) welcomes you :earth_africa:</h1>
 
